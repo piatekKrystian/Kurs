@@ -18,7 +18,7 @@ chooser.setDialogTitle("Wybierz plik z tekstem");
                     counter++;
                 }
             }
-            System.out.println("Słowo " + word + " wystąpiło w wybranym tekście "+counter+ " razy");
+            System.out.println("Słowo " + word + " wystąpiło w wybranym przez Ciebie tekście "+counter+ " razy");
         }
     }
 }
